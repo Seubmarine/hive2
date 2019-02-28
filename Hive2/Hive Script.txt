@@ -1,0 +1,37 @@
+En 2048 l'un des plus grands drames que l'humanité est connue eut lieu.
+
+On l'appelle "Hive" une Intéligence artificielle (développé par un groupe sous le nom de "Queen") se virus se base sur une intelligence artificielle.
+Capable de rentrée dans n'importe quel système informatique en prendre son contrôle et l'utiliser pour produire le plus de chaos possible, ce fut là l'événement ayant détruit la civilisation humaine que nous connaissions jusqu'à aujourd'hui.
+
+Vous êtes Nanos un jeune de 18 ans se réveillant dans une superette saccagé sans souvenir de ses dernières heures et saigné au niveau de la tête.
+Vous entendé des cris dans la rue et décidé d'utiliser l'entrée arrière de la superette pour fuir les cries.
+
+-------------------------------------------------------------------------------------------
+
+"
+|HP|NE|NE|NE|NE|NE|NE|  |
+|  |NE|  |C1|  |  |NE|  |
+|  |NE|IF|  |RJ|NE|NE|  |
+|HL|NE|  |BR|  |  |NE|  |
+|  |NE|NE|NE|  |NE|NE|NE|
+|  |  |NE|  |  |NE|  |NE|
+|  |ST|NE|  |  |NE|LE|NE|"
+
+"
+|HP|NE|NE|NE|  |NE|NE|NE|
+|  |NE|  |BR|  |  |NE|  |
+|  |NE|IF|RJ|NE|NE|NE|  |
+|HL|NE|  |BR|  |  |NE|  |
+|  |NE|NE|NE|  |NE|NE|NE|
+|  |  |NE|  |  |NE|  |NE|
+|  |ST|NE|  |  |NE|LE|NE|"
+
+
+Jambe : Esquive, équilibre, utilisé des roue, (areigné?), meuilleurs esquive, bombe sous les pieds
+
+Bras: Parer, détaché bras gauche pour l'attaché a bras droit(plus de portée d'attaque,mais plus de raté possible),bouclier (less attack but better defense), grappin
+
+Stamina: une attaque spéciale change la valeur du stamina
+
+
+Trou
