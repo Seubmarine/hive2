@@ -1,2 +1,2 @@
 # hive2
-Text Video Game
+First textual video game using Python
